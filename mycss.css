@@ -163,7 +163,7 @@ div ,h1,h2,span,body,html,header,footer{
 
 #welcome 
 {
-  background-image: url(offical_lines.svg);
+  background-image: url(Extras/Back-lines.svg);
   background-attachment: fixed;
   background-size: 150%;
   display: flex;
